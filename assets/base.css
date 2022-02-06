@@ -2190,6 +2190,8 @@ input[type='checkbox'] {
 .header__heading {
   margin: 0;
   line-height: 0;
+  background-color: red;
+  padding: 12px 8px;
 }
 
 .header > .header__heading-link {
