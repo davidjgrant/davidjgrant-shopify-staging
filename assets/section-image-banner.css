@@ -397,6 +397,7 @@
 
 .banner__heading {
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 .banner__box .banner__heading + * {
